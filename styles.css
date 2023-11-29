@@ -1,0 +1,13 @@
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(112, 71, 8);
+}
+.recipe{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(176, 197, 19);
+}
+#page-changer{
+    font-size: 18px;
+    color: black;
+    border: 4px;
+}
